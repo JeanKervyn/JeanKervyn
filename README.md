@@ -1,0 +1,4 @@
+- I am currently working as project manager in the cybersecurity field.
+- My objective is to build my technical skills to have a better understanding of all aspects of my projects.
+- I am therefore following a series of courses and pursuing technical certifications.
+- I use GitHub to store the Portfolio I am building by following these courses as well as personal projects.
